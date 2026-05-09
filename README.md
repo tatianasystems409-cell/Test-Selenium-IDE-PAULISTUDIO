@@ -39,7 +39,7 @@ agenda en el DOM.
 
 🛠️ Ejecución de Pruebas
 Instale la extensión de Selenium IDE.
-Cargue el archivo PaulisStudio_Tests.side.
+Cargue el archivo Pruebas Automaticas Paulistudio.side
 Configure la URL base: https://salonpaulistudio.vercel.app.
 Ejecute la suite de pruebas y verifique los logs en verde.
 Autora: Ingri Tatiana Faustino Callejas

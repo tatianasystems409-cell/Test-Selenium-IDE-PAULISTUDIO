@@ -22,6 +22,7 @@ productos de belleza sean infalibles.
 Casos de Prueba Automatizados
 
 El archivo PaulisStudio_Tests.side incluye los siguientes escenarios:
+
 CP-01: Autenticación de Estilistas
 Validación de acceso al panel administrativo y protección de datos de
 clientes.
